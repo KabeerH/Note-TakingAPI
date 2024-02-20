@@ -115,6 +115,18 @@ This endpoint deletes a note from the database.
 
 ![image](https://github.com/KabeerH/Note-TakingAPI/assets/122492914/a687b430-bf37-4b80-ac24-5257e8d1a309)
 
+## Additional Tips
+When running this appliccation replace values `DB_HOST`, `DB_USER`, `DB_PASSWORD` and `DB_DATABASE` with your own credentials or make a `.env` file and copy/paste the following into that file:
+```bash
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
+DB_DATABASE=
+```
+then set your credentials.
+
+
+
 ## Contributors 
 
 - Kabeer Harjani | https://github.com/KabeerH
